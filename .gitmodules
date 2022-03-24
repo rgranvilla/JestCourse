@@ -1,3 +1,6 @@
 [submodule "color-button"]
 	path = color-button
 	url = git@github.com:rgranvilla/JestCourse.git
+[submodule "color-button-jest"]
+	path = color-button-jest
+	url = git@github.com:rgranvilla/color-button-jest.git
