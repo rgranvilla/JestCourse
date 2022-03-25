@@ -4,3 +4,6 @@
 [submodule "color-button-jest"]
 	path = color-button-jest
 	url = git@github.com:rgranvilla/color-button-jest.git
+[submodule "sundaes-on-demand-jest"]
+	path = sundaes-on-demand-jest
+	url = git@github.com:rgranvilla/sundaes-on-demand-jest.git
